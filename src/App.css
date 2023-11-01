@@ -1,0 +1,21 @@
+.App {
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #FFAC1C;
+  text-align: center;
+}
+
+.App-header {
+  color: #1C2021;
+  padding: 20px;
+}
+
+.App-header > h1 {
+  font-size: 4em;
+  padding: 10%;
+}
+
+.App-link {
+  color: #61dafb;
+}
