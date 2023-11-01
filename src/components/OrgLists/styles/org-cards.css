@@ -1,0 +1,110 @@
+.Main-Header {
+    background: ghostwhite;
+    position: relative;
+    font-weight: bold;
+    line-height: 18px;
+  }
+  .Main-Logo {
+    width: 100%;
+    height: auto;
+    margin-top: 3%;
+  }
+  .Main-Body {
+    background: ghostwhite;
+    position: relative;
+  }
+
+  .Card-Container {
+    background-color: ghostwhite;
+    overflow: hidden;
+    width: 16%;
+    height: 100%;
+    min-width: 285px;
+    display: flex;
+    margin: 1.5vw;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 6px, rgba(0, 0, 0, 0.12) 0px 1px 4px;
+    -webkit-transition: box-shadow 0.1s ease-in-out;
+    transition: box-shadow 0.1s ease-in-out;
+  }
+  @media (max-width: 700px) {
+    .Card-Container {
+      width: 100%;
+    }
+    .Org-Main-Link {
+      width: 100%;
+    }
+  }
+  
+  .Card-Container:hover {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 5px 10px, rgba(0, 0, 0, 0.23) 0px 7px 10px;
+  }
+  .Org-Main-Link:hover {
+    text-decoration: none;
+    color: black;
+  }
+  .Org-Main-Link:visited {
+    text-decoration: none;
+    color: black;
+  }
+  .Org-Main-Link:link {
+    display: flex;
+    flex-direction: column;
+    text-decoration: none;
+    color: black;
+    margin: 0 auto;
+  }
+  .Org-Main-Link:active {
+    text-decoration: none;
+    color: black;
+  }
+  .Main-Description {
+    position: relative;
+    padding: 5%;
+  }
+  .Main-Link {
+    position: relative;
+    border-radius: 5px;
+    padding: 15px;
+    color: darkslategrey;
+    background-color: #FFAC1C;
+    font-weight: bold;
+    transition: 0.4s;
+    margin-top: auto;
+    border-top: rgba(0, 0, 0, 0.12) 1px solid;
+  }
+  .Main-Link:hover {
+    background-color: floralwhite;
+    color: #FFAC1C;
+  }
+  .Main-Title {
+    margin-top: 6%;
+    height: 10%;
+    font-size: 24px;
+  }
+  .Main-Link-Style {
+    margin-left: 10%;
+  }
+  
+  .Main-Tag div {
+    display: inline-block;
+    background-color: papayawhip;
+    padding: 2px;
+    border-radius: 15px;
+    margin: 5px 5px;
+    vertical-align: middle;
+  }
+  
+  .Main-Tag p {
+    margin: 3px 0;
+    font-size: 16px;
+    text-transform: capitalize;
+  }
+
+  .website {
+    position: relative;
+    padding: 5px;
+    color: royalblue;
+    background-color: palegreen;
+    font-weight: bolder;
+    margin-top: auto;
+  }

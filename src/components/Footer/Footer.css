@@ -1,0 +1,30 @@
+.Footer {
+	background-color: darkseagreen;
+	color: black;
+	font-weight: bolder;
+	font-size: 18px;
+	padding: 6px;
+	text-align: center;
+}
+
+.foot {
+	display: inline-block;
+	color: floralwhite;
+	vertical-align: middle;
+}
+
+.foot1 {
+	color: red;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.foot1 a {
+	text-decoration: none;
+	color: red;
+}
+
+.foot1 a:hover {
+	text-decoration: underline;
+	color: papayawhip;
+}

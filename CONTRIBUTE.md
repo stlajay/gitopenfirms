@@ -16,9 +16,24 @@ yarn start
 Runs the app in the development mode.\
 Copy and Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+For contributing, go to this [directory](https://github.com/stlajay/gitopenofirms/blob/main/src/components/OrgLists/ListOrgs.js).
+
+ADD this script below, with your information:
+
+```javascript
+    {
+      name: "Organisation",
+      website: "example.com",
+      mainLink: "https://github.com/example",
+      imageSrc: "https://example.com/image",
+      description: "Org. ...",
+      tags: ["internet", "technology", "open source"],
+    },
+```
 
 
 **ADDTIONAL INFORMATION**: 
+
 The page will reload when you make changes.
 You may also see any lint errors in the console.
 
