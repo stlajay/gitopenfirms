@@ -15,9 +15,9 @@ yarn
 yarn start
 ```
 
-Look at the [CONTRIBUTION.md](https://github.com/stlajay/gitopenfirms/blob/main/CONTRIBUTION.md) file
+Look at the [CONTRIBUTION.md](https://github.com/stlajay/gitopenfirms/blob/master/CONTRIBUTE.md) file
 
 
 ✌️ Happy hacking!!
 
-🙏 Follow [code_of_conduct.md](https://github.com/stlajay/gitopenfirms/blob/main/code_of_conduct.md)
+🙏 Follow [code_of_conduct.md](https://github.com/stlajay/gitopenfirms/blob/master/code_of_conduct.md)

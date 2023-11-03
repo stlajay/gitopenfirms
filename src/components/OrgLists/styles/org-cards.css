@@ -5,7 +5,7 @@
     line-height: 18px;
   }
   .Main-Logo {
-    width: 100%;
+    width: 70%;
     height: auto;
     margin-top: 3%;
   }
@@ -19,7 +19,7 @@
     overflow: hidden;
     width: 16%;
     height: 100%;
-    min-width: 285px;
+    min-width: 270px;
     display: flex;
     margin: 1.5vw;
     box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 6px, rgba(0, 0, 0, 0.12) 0px 1px 4px;

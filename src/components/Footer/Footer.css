@@ -14,14 +14,14 @@
 }
 
 .foot1 {
-	color: red;
+	color: aliceblue;
 	display: inline-block;
 	vertical-align: middle;
 }
 
 .foot1 a {
 	text-decoration: none;
-	color: red;
+	color: black;
 }
 
 .foot1 a:hover {

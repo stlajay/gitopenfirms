@@ -5,6 +5,11 @@ git clone https://github.com/stlajay/gitopenfirms.git
 ```
 
 In the project directory, you can run:
+
+```bash
+cd gitopenfirms
+```
+
 ```bash
 yarn 
 ```
@@ -16,7 +21,7 @@ yarn start
 Runs the app in the development mode.\
 Copy and Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-For contributing, go to this [directory](https://github.com/stlajay/gitopenofirms/blob/main/src/components/OrgLists/ListOrgs.js).
+For contributing, go to this [directory](https://github.com/stlajay/gitopenfirms/blob/master/src/components/OrgLists/ListOrgs.js).
 
 ADD this script below, with your information:
 
