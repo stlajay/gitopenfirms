@@ -36,6 +36,8 @@ ADD this script below, with your information:
     },
 ```
 
+![alt text](https://github.com/stlajay/gitopenfirms/blob/master/public/repo.png)
+
 
 **ADDTIONAL INFORMATION**: 
 
