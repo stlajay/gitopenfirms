@@ -1,3 +1,23 @@
+## Create an [new issue](https://github.com/stlajay/gitopenfirms/issues)  (easy and simpler)
+
+```bash
+    {
+      name: "Organisation",
+      website: "example.com",
+      mainLink: "https://github.com/example",
+      imageSrc: "https://example.com/image",
+      description: "Org. ...",
+      tags: ["internet", "technology", "open source"],
+    },
+```
+
+I'll add your script to the [ListOrgs.js](https://github.com/stlajay/gitopenfirms/blob/master/src/components/OrgLists/ListOrgs.js) file.
+
+
+
+**OR**
+
+
 ## FORK AND CLONE THIS REPOSITORY
 
 ```bash

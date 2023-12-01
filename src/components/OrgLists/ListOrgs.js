@@ -13,7 +13,7 @@ const orgList = [
       mainLink: "https://github.com/mongodb",
       imageSrc: "https://avatars.githubusercontent.com/u/45120?s=200&v=4",
       description: "MongoDB is a cross-platform document-oriented database program such as a NoSQL database program. MongoDB uses JSON-like documents with optional schemas.",
-      tags: [" mongodb/mongo", "mongodb/mongodb-atlas-cli", "mongodb/leafygreen-ui", "much more .."],
+      tags: ["mongo", "mongodb-atlas-cli", "leafygreen-ui", "much more .."],
     }
 ];
 
