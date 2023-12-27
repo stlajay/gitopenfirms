@@ -1,3 +1,5 @@
+Look at the [CONTRIBUTION.md](https://github.com/stlajay/gitopenfirms/blob/master/CONTRIBUTE.md) file
+
 ## Create an [new issue](https://github.com/stlajay/gitopenfirms/issues)  (easy and simpler)
 
 ```bash
@@ -92,3 +94,5 @@ Instead, it will copy all the configuration files and the transitive dependencie
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
 ***READ MORE ABOUT REACT DOCS [HERE](https://facebook.github.io/create-react-app/docs)***
+
+🙏 Follow [code_of_conduct.md](https://github.com/stlajay/gitopenfirms/blob/master/code_of_conduct.md)
