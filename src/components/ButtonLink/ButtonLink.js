@@ -8,7 +8,7 @@ class ButtonLink extends Component {
       <div className="ButtonLink-Wrapper">
         <a
           className="ButtonLink"
-          href="https://github.com/stlajay/gitopenfirms/blob/master/CONTRIBUTE.md"
+          href="https://github.com/stlajay/gitopenfirms"
         >
           <span> Know More </span>
         </a>
