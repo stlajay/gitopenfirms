@@ -42,7 +42,7 @@ const orgList = [
     {
       name: "Pintrest",
       website: "www.pintrest.com",
-      mainLink: "https://github.com/pintrest",
+      mainLink: "https://github.com/pinterest/",
       imageSrc: "https://avatars.githubusercontent.com/u/541152?s=200&v=4",
       description: "Pinterest is an art and designer's community, social media designed to enable saving and discovery of information like recipes, style, and inspiration, etc.",
       tags: ["querybook", "ktlint", "gslalt"],
