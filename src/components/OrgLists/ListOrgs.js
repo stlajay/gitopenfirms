@@ -1,5 +1,13 @@
 const orgList = [
     {
+      name: "LINUX",
+      website: "kernel.org",
+      mainLink: "https://github.com/torvalds/linux",
+      imageSrc: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/225px-Tux.svg.png",
+      description: "Free system for computers and other electronic devices.",
+      tags: ["linux", "kernel"],
+    },
+    {
       name: "GitHub",
       website: "github.com",
       mainLink: "https://github.com/github",
@@ -46,6 +54,22 @@ const orgList = [
       imageSrc: "https://avatars.githubusercontent.com/u/109142?s=200&v=4",
       description: "Twilio enables you to create and deploy customer engagement solutions with communication APIs for SMS, voice, video, and authentication.",
       tags: ["twilio-cli"],
+    },
+    {
+      name: "Figma",
+      website: "www.figma.com",
+      mainLink: "https://github.com/figma",
+      imageSrc: "https://avatars.githubusercontent.com/u/5155369?s=200&v=4",
+      description: "Figma is collaborative design tool for building meaningful product designs.",
+      tags: ["plugin-typings", "widget-typings"],
+    },
+    {
+      name: "Mozilla",
+      website: "www.mozilla.org",
+      mainLink: "https://github.com/mozilla",
+      imageSrc: "https://www.mozilla.org/media/protocol/img/logos/mozilla/logo-word-hor.e20791bb4dd4.svg",
+      description: "Donate to Mozilla. Reclaim the internet.",
+      tags: ["deepspeech", "pdf.js", "experimenter"],
     }
 ];
 
